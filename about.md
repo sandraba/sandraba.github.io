@@ -1,0 +1,3 @@
+# About
+
+Sandra Barteit is a trained Computational Linguist who pursued her PhD at the Institute of Global Health, Heidelberg University. Her PhD research was on the evaluation of a medical e-learning intervention in Zambia employing a mixed-methods approach. Her main interest is in digital global health, how to best make use of technology to improve health globally, especially with methods from Artificial Intelligence and Machine Learning. Sandra is the project lead of the Blended Learning in Zambia (BLiZ) project – a collaborative project between Chainama College of Health Sciences, SolidarMed and Heidelberg Institute of Global Health, and of Development and Analysis of Population Health Cohorts in Burkina Faso and Kenya.
